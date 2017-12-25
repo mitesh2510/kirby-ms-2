@@ -1,0 +1,144 @@
+title: Manual
+pages: true
+files: true
+fields:
+  title:
+    label: Title
+    type:  text
+  year:
+    label: Year
+    type: text
+  text:
+    label: Description
+    type: markdown
+  coverimage:
+    label: Manual Cover Image
+    type: url
+  Imagecatalog:
+    label: Manual Catalog Image
+    type: url
+  manualcover:
+    label: Manual Cover
+    type: markdown
+  manualtoc:
+    label: Manual TOC
+    type: markdown
+  manualcurrency:
+    label: Currency
+    type: select
+    default: usd
+    options:
+      usd: USD
+      gbp: GBP
+  manualprice:
+    label: Manual Price
+    type: number
+  manualsku:
+    label: Manual SKU
+    type: number
+  sendowl:
+    label: Send Owl
+    type: markdown
+  addtocart:
+    label: Block Add to Cart
+    type: markdown
+  propscons:
+    label: Block Props & Cons
+    type: markdown
+  manualspecification:
+    label: Manual Specifications
+    type: structure
+    style: table
+    entry: >
+      {{manualtype}}<br />
+      {{noofpages}}<br />
+      {{filesize}}<br />
+      {{format}}<br />
+      {{language}}<br />
+      {{suitablefor}}
+    fields:
+      manualtype:
+        label: Manual Type
+        type: text
+      noofpages:
+        label: No. Of Pages
+        type: number
+      filesize:
+        label: File Size in MB
+        type: number
+      format:
+        label: Format
+        type: text
+      language:
+        label: Language
+        type: select
+        default: english
+        options:
+          english: English
+      suitablefor:
+        label: Suitable For
+        type: text
+  carspecification:
+    label: Car Specifications
+    type: structure
+    style: table
+    entry: >
+      {{make}}<br />
+      {{series}}<br />
+      {{subseries}}<br />
+      {{platform}}<br />
+      {{years}}<br />
+      {{bodytype}}
+      {{fueltype}}
+    fields:
+      make:
+        label: Make
+        type: select
+        default: audi
+        options:
+          audi: Audi
+          bmw: BMW
+          mercedez: Mercedez
+      series:
+        label: Series
+        type: text
+      subseries:
+        label: Sub Series
+        type: text
+      platform:
+        label: Platform
+        type: text
+      years:
+        label: Years
+        type: text
+      bodytype:
+        label: Body Type
+        type: text
+      fueltype:
+        label: Fuel Type
+        type: select
+        options:
+          petrol: Petrol
+          diesel: Diesel
+          hybrid: Petrol & Diesel
+  preview:
+    label: Preview Images
+    type: structure
+    entry: >
+      {{image1}}<br />
+      {{image2}}<br />
+      {{image3}}<br />
+      {{image4}}
+    fields:
+      image1:
+        label: Image 1
+        type: url
+      image2:
+        label: Image 2
+        type: url
+      image3:
+        label: Image 3
+        type: url
+      image4:
+        label: Image 4
+        type: url

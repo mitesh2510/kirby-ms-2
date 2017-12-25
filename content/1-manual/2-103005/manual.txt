@@ -1,0 +1,147 @@
+Title: BMW  5 series | Service & repair manual |E60 (saloon) E61(wagon) | 2003 -2010
+
+----
+
+Year: 2003 -2010
+
+----
+
+Text: 
+
+###  BMW  5 series | Service & repair manual |E60 (saloon) E61(wagon) | 2003 -2010 
+This workshop manual is your number one source for repair and service information. 
+
+They are specifically written for the do-it-yourselfer as well as the experienced mechanic. 
+Using this service & repair manual is an inexpensive way to keep you vehicle working properly. 
+
+The manual provides step-by-step instructions based on the complete disassembly of the machine. It is this level of detail, along with hundreds of photos and illustrations, that guide the reader through each service and repair procedure. 
+
+Workshop manual for
+* E60 4-door sedan/saloon 
+* E61 5-door estate/wagon (marketed as "Touring")
+
+----
+
+Coverimage: https://cmlcarimg.imgix.net/Images/cars/car103303.jpg
+
+----
+
+Manualcover: 
+
+### Models and engines covered in this BMW repair manual:
+
+|Model|Fuel type|Years|Engine|Power|
+| --- | --- | --- |  --- |--- |
+|525i|Petrol|2003-2005|M54B25|140 kW (188 bhp)|
+|525i|Petrol|2005-2007|N52B25|160 kW (215 bhp)|
+|525i|Petrol|2007-2010|N53B30UL|160 kW (215 bhp)|
+|528i|Petrol|2007-2010|N53B30|169 kW (227 bhp)|
+|530i|Petrol|2003-2005|M54B30|170 kW (228 bhp)|
+|530i|Petrol|2005-2007|N52B30|190 kW (255 bhp)|
+|530i|Petrol|2007-2010|N53B30OL|200 kW (268 bhp)|
+|535i|Petrol|2007-2010|N54B30|225 kW (302 bhp)|
+|540i|Petrol|2005-2010|N62B40|225 kW (302 bhp)|
+|545i|Petrol|2003-2005|N62B44|245 kW (329 bhp)|
+|550i|Petrol|2005-2010|N62B48TÜ|270 kW (362 bhp)|
+|M5|Petrol|2005-2010|S85B50|373 kW (500 bhp)|
+
+----
+
+Manualprice: 25
+
+----
+
+Manualsku: 103003
+
+----
+
+Sendowl: <a href="https://transactions.sendowl.com/products/77664121/A8BE4879/add_to_cart" rel="nofollow"><img src="https://transactions.sendowl.com/assets/external/add-to-cart.png" /></a><script type="text/javascript" src="https://transactions.sendowl.com/assets/sendowl.js" ></script>
+
+----
+
+Addtocart: 
+
+* Instant access to your download
+* No hidden fees
+* Manual can be used for life
+* No need to renew or pay any extra.
+
+----
+
+Imagecatalog: https://cmlcarimg.imgix.net/Images/cars/car103303.jpg
+
+----
+
+Propscons: 
+
+### Pros and cons
+*  All pages are printable, so print off what you need and take it with you into the garage or workshop
+* This manual will never get dirty and rip as you can keep it safely on your PC and print the pages you need in matter of seconds.
+* The manual can be used on as many computers as required.
+* Fully compatible with all Windows & All MAC Computers.
+* No extra software (viritualbox) required
+* Not searchable
+
+----
+
+Manualtype: 
+
+----
+
+Manualspecification: 
+
+- 
+  manualtype: 'Service & Repair Manual'
+  noofpages: "1662"
+  filesize: "784"
+  format: PDF
+  language: english
+  suitablefor: DIY
+
+----
+
+Carspecification: 
+
+- 
+  make: bmw
+  series: 5-Series
+  subseries: ---
+  platform: E60 (saloon) E61 (wagon)
+  years: '2003 - 2010'
+  bodytype: 'Saloon & wagon'
+  fueltype: petrol
+
+----
+
+Preview: 
+
+- 
+  image1: >
+    https://cmlcarimg.imgix.net/Images/cars/car103303.jpg
+  image2: >
+    https://cmlcarimg.imgix.net/Images/cars/car103303.jpg
+  image3: >
+    https://cmlcarimg.imgix.net/Images/cars/car103303.jpg
+  image4: >
+    https://cmlcarimg.imgix.net/Images/cars/car103303.jpg
+
+----
+
+Manualcurrency: gbp
+
+----
+
+Manualtoc: 
+
+### Models and engines covered in this Audi repair manual:
+
+|Model|Fuel type|Year|Engine type|Power, torque@rpm|
+| --- | --- | --- |  --- |--- |
+|2.0 TFSI quattro (180PS)|Petrol|2009–2012|1,984 cc (1.984 L; 121.1 cu in) I4 turbo|180 PS (132 kW; 178 hp)@4000–6000, 320 N·m (236 lbf·ft)@1500–4200|
+|2.0 TFSI quattro (211PS)|Petrol|2008–2012|1,984 cc (1.984 L; 121.1 cu in) I4 turbo|211 PS (155 kW; 208 hp)@4300–6000, 350 N·m (258 lbf·ft)@1500–4200|
+|2.0 TFSI quattro (225PS)|Petrol|2011–2017|1,984 cc (1.984 L; 121.1 cu in) I4 turbo|225 PS (165 kW; 222 hp)@4500–6250, 350 N·m (258 lbf·ft)@1500–4500|
+|3.2 FSI quattro|Petrol|2009–2012|3,197 cc (3.197 L; 195.1 cu in) V6|270 PS (199 kW; 266 hp)@6500, 330 N·m (243 lbf·ft)@3000–5000|
+|2.0 TDI (143PS)|Diesel|2009–2017|1,968 cc (1.968 L; 120.1 cu in) I4 turbo common rail|143 PS (105 kW; 141 hp)@4200, 320 N·m (236 lbf·ft)@1750–2500|
+|2.0 TDI quattro (143PS)|Diesel|2009–2012|1,968 cc (1.968 L; 120.1 cu in) I4 turbo common rail|143 PS (105 kW; 141 hp)@4200, 320 N·m (236 lbf·ft)@1750–2500|
+|2.0 TDI quattro (170PS)|Diesel|2008–2012|1,968 cc (1.968 L; 120.1 cu in) I4 turbo common rail|170 PS (125 kW; 168 hp)@4200, 350 N·m (258 lbf·ft)@1750–2500|
+|3.0 TDI quattro|Diesel|2008–2012|2,967 cc (2.967 L; 181.1 cu in) V6 turbo common rail|240 PS (177 kW; 237 hp)@4000–4400, 500 N·m (369 lbf·ft)@1500–3000|
